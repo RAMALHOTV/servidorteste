@@ -1,27 +1,7 @@
 
 #EXTM3U
  
-#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RamalhoIPTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RamalhoIPTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
- 
-################################################################################# Informações da Lista
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",Addon RamalhoIPTV
-https://www.youtube.com
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",Mais Informações da Lista entre em contato
-https://www.youtube.com/
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:13/11/2022 
-https://www.youtube.com/
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RamalhoIPTV
-https://www.youtube.com/
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! 
-https://www.youtube.com/
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M0aRl2a.jpg" group-title="Informações da Lista",(44)991045772
-https://www.youtube.com/
+
 #EXTINF:0 tvg-id="Ae.br" group-title="FILMES E SERIES",A&E
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=RamalhoIPTV&maxbitrate=0&buffer=20191129153332&url=http://x90.live:80/live/daiele/daiele1910/83514.m3u8
 #EXTINF:0 tvg-id="Ae.br" group-title="FILMES E SERIES",A&E HD
