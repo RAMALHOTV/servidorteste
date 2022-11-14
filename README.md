@@ -1,10 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR][COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Informações da Lista",[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR](44)991045772
-https://www.youtube.
-#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",ByRAMALHOIPTV
-https://www.youtube.
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Informações da Lista",[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Atualizado:13/11/2022 
+ 
+#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
+ 
+################################################################################# Informações da Lista
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",Addon RamalhoIPTV
 https://www.youtube.com
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",Mais Informações da Lista entre em contato
+https://www.youtube.com/
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:13/11/2022 
+https://www.youtube.com/
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
+https://www.youtube.com/
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! 
+https://www.youtube.com/
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M0aRl2a.jpg" group-title="Informações da Lista",(44)991045772
+https://www.youtube.com/
+
 
 #EXTINF:-1 tvg-id="" tvg-name="TV GLOBINHO HD" tvg-logo="http://mundoplay.store/canais/gloobinho.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]CANAIS | INFANTIL",TV GLOBINHO HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&maxbitrate=0&buffer=20191129153332&url=https://meumd.com:443/987654321/987654321/206978
